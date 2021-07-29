@@ -1,2 +1,3 @@
 # hello-world
-idk learning github
+hey, im kinda new to github so im just doin the guide thing lmao
+yea lol
